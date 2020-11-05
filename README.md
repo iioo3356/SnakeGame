@@ -1,5 +1,7 @@
 # 스네이크 게임 (3인 프로젝트)
 -----------------------------
+![snake_game](https://user-images.githubusercontent.com/54922639/98265952-0a824b80-1fcd-11eb-8e9e-a0903817ffd1.png)
+
 ## 게임 규칙
 snake의 길이가 3미만 or 머리가 벽에 닿으면 실패
 화살표 키로 상하좌우 이동
